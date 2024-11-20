@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Anamul Haque Piyal</h1>
 <h3 align="center">A passionate mobile application developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Mobile Application Development**
 
 
 <p align="left">
